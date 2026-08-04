@@ -7,11 +7,18 @@ This repository contains all the tasks completed during my Data Analytics Intern
 ```text
 Nevoxa-Technologies-Internship/
 │
-├── README.md          ← Repository overview
+├── README.md                      ← Repository overview
 │
-└── Task 1/
-    ├── README.md      ← Task 1 details
-    ├── Task_1.ipynb
-    ├── netflix.csv
-    └── analysis_report.md
+├── Task 1/
+│   ├── README.md
+│   ├── Task_1.ipynb
+│   ├── netflix.csv
+│   └── analysis_report.md
+│
+└── Task 2/
+    ├── README.md
+    ├── Task_2.ipynb
+    ├── Housing.csv
+    ├── Housing_cleaned.csv
+    └── preprocessing_report.md
 ```
