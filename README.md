@@ -15,10 +15,16 @@ Nevoxa-Technologies-Internship/
 │   ├── netflix.csv
 │   └── analysis_report.md
 │
-└── Task 2/
+├── Task 2/
+│   ├── README.md
+│   ├── Task_2.ipynb
+│   ├── Housing.csv
+│   ├── Housing_cleaned.csv
+│   └── preprocessing_report.md
+│
+└── Task 3/
     ├── README.md
-    ├── Task_2.ipynb
-    ├── Housing.csv
-    ├── Housing_cleaned.csv
-    └── preprocessing_report.md
+    ├── Task_3.ipynb
+    ├── healthcare_dataset.csv
+    └── eda_report.md
 ```
