@@ -56,7 +56,6 @@ This project is submitted for the **Novexa Technologies Data Analysis Task 3**. 
 ├── healthcare_dataset.csv          # Dataset
 ├── healthcare_eda.ipynb            # Jupyter/Colab notebook with full code
 ├── eda_report.md                   # Detailed EDA report
-├── visuals/                        # Exported chart images (optional)
 └── README.md                       # Project overview (this file)
 ```
 
