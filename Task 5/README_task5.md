@@ -48,8 +48,6 @@ This project is submitted for the **Novexa Technologies Data Analysis Task 5**. 
 ```
 ├── student_data.csv                # Dataset
 ├── student_statistical_analysis.ipynb  # Jupyter/Colab notebook with full code
-├── statistical_report.md           # Detailed statistical analysis report
-├── visuals/                        # Exported chart images (optional)
 └── README.md                       # Project overview (this file)
 ```
 
