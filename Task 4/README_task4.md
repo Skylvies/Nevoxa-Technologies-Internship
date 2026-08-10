@@ -54,7 +54,6 @@ This project is submitted for the **Novexa Technologies Data Analysis Task 4**. 
 ├── country_wise_latest.csv         # Dataset
 ├── covid_visualization.ipynb       # Jupyter/Colab notebook with full code
 ├── visualization_report.md         # Detailed visualization report
-├── charts/                         # Exported chart images (PNG)
 └── README.md                       # Project overview (this file)
 ```
 
