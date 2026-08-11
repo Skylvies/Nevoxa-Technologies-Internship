@@ -34,8 +34,13 @@ Nevoxa-Technologies-Internship/
 │   ├── country_wise_latest.csv
 │   └── top10_confirmed.png
 │
-└── Task 5/
+├── Task 5/
+│   ├── README.md
+│   ├── Task_5.ipynb
+│   └── student_data.csv
+│
+└── Task 6/
     ├── README.md
-    ├── Task_5.ipynb
-    └── student_data.csv
+    ├── Task_6.sql
+    └── orders.csv
 ```
