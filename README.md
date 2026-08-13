@@ -42,7 +42,6 @@ Nevoxa-Technologies-Internship/
 │
 └── Task 7/
     ├── README.md
-    ├── Amazon Sale Report.csv
     ├── Amazon_Sales_Dashboard.pbix
     ├── Amazon_Sales_Dashboard.pdf
     └── Screenshot.png
