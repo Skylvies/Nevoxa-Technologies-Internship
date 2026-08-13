@@ -56,7 +56,6 @@ This project is submitted for the **Novexa Technologies Data Analysis Task 7**. 
 
 ## 📁 Repository Contents
 ```
-├── Amazon_Sale_Report.csv          # Dataset
 ├── Amazon_Sales_Dashboard.pbix     # Power BI dashboard file
 ├── Amazon_Sales_Dashboard.pdf      # Exported dashboard report
 ├── dashboard_screenshot.png        # Dashboard screenshot(s)
