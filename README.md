@@ -1,3 +1,7 @@
+# Nevoxa Technologies Internship
+
+This repository contains all the tasks completed during my Data Analytics Internship at Nevoxa Technologies.
+
 ## Repository Structure
 
 ```text
@@ -40,9 +44,15 @@ Nevoxa-Technologies-Internship/
 │   ├── Task_6.sql
 │   └── orders.csv
 │
-└── Task 7/
+├── Task 7/
+│   ├── README.md
+│   ├── Amazon_Sale_Report.csv
+│   ├── Amazon_Sales_Dashboard.pbix
+│   ├── Amazon_Sales_Dashboard.pdf
+│   └── Dashboard_Screenshot.png
+│
+└── Task 8/
     ├── README.md
-    ├── Amazon_Sales_Dashboard.pbix
-    ├── Amazon_Sales_Dashboard.pdf
-    └── Screenshot.png
+    ├── portfolio_data.csv
+    └── portfolio_dashboard_report.pdf
 ```
