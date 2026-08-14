@@ -52,8 +52,6 @@ Data spans **2013–2019**, with no missing values or duplicate records.
 ├── portfolio_data.csv              # Dataset
 ├── portfolio_dashboard.xlsx        # Excel workbook (RawData, PivotByYear,
 │                                      PivotByQuarter, Dashboard sheets)
-├── portfolio_dashboard_report.pdf  # Exported dashboard report
-├── dashboard_screenshot.png        # Screenshot of the Dashboard sheet
 └── README.md                       # Project overview (this file)
 ```
 
