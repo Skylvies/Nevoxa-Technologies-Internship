@@ -11,7 +11,6 @@ the target site's Terms of Service and robots.txt.
 | File | Description |
 |---|---|
 | `scrape_books.py` | Main scraping script (requests + BeautifulSoup + pandas) |
-| `scrape_books.ipynb` | Same logic as a step-by-step Jupyter notebook |
 | `data/books_dataset.csv` | Collected dataset |
 | `Web_Scraping_Report.md` | Report: methodology, challenges, findings |
 | `requirements.txt` | Python dependencies |
