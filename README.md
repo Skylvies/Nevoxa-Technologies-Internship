@@ -62,9 +62,14 @@ Nevoxa-Technologies-Internship/
 │   ├── Business_Insights_Presentation.pptx
 │   └── Business_Insights_Report.pptx
 │
-└── Task 10/
+├── Task 10/
+│   ├── README.md
+│   ├── scrape_books.py
+│   ├── books_dataset.csv
+│   └── Web_Scraping_Report.pptx
+│
+└── Task 11/
     ├── README.md
-    ├── scrape_books.py
-    ├── books_dataset.csv
-    └── Web_Scraping_Report.pptx
+    ├── healthcare_dataset.csv
+    └── Healthcare_Operations_Dashboard.twbx
 ```
