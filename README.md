@@ -7,7 +7,7 @@ This repository contains all the tasks completed during my Data Analytics Intern
 ```text
 Nevoxa-Technologies-Internship/
 │
-├── README.md                      ← Repository overview
+├── README.md
 │
 ├── Task 1/
 │   ├── README.md
@@ -68,8 +68,15 @@ Nevoxa-Technologies-Internship/
 │   ├── books_dataset.csv
 │   └── Web_Scraping_Report.pptx
 │
-└── Task 11/
+├── Task 11/
+│   ├── README.md
+│   ├── healthcare_dataset.csv
+│   └── Healthcare_Operations_Dashboard.twbx
+│
+└── Task 12/
     ├── README.md
-    ├── healthcare_dataset.csv
-    └── Healthcare_Operations_Dashboard.twbx
+    ├── retail_sales_dataset.xls
+    ├── queries.sql
+    ├── category_revenue.xlsx
+    └── retail_analysis.ipynb
 ```
